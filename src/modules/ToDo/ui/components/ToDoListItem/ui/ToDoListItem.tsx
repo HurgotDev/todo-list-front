@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-floating-promises */
 import { type FC } from 'react'
 import { type IToDoListItem } from '../@types/ToDoListItem'
 import { Button } from '../../../../../../shared/components/common/Button'
